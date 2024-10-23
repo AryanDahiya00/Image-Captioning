@@ -173,7 +173,4 @@ streamlit run main.py
 - Allow processing time for bulk operations
 - Regularly check for software updates
 
----
 
-*Documentation last updated: October 2024*  
-*For issues and contributions, please visit the [GitHub repository](https://github.com/AryanDahiya00/Image-Captioning)*
