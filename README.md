@@ -139,7 +139,7 @@ PIL
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/[your-username]/Image-Captioning.git
+git clone https://github.com/AryanDahiya00/Image-Captioning.git
 ```
 
 2. Install dependencies:
